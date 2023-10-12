@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hugo, a full-time student-athlete cybersecurity enthusiast 👨‍💻</div>  
   
 
-- *🔭 You will find me working on various cool projects using NAS using Raspberry Pi and setting up VMs! 💻*  
+- *🔭 You will find me working on various cool projects such as building a NAS using Raspberry Pi or setting up VMs! 💻*  
   
 
 - 🌱 I’m currently learning Kali Linux tools and Threat Intel  
