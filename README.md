@@ -1,7 +1,6 @@
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Hugo, a full-time student-athlete cybersecurity enthusiast 👨‍💻</div>  
   
@@ -20,7 +19,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Skillset  
@@ -58,7 +56,6 @@
 </td><td valign="top" width="33%">
 
 
-
 </td></tr></table>  
 
 <br/>  
@@ -75,6 +72,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
