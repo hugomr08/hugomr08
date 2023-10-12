@@ -9,7 +9,7 @@
 - *🔭 You will find me working on various cool projects such as building a NAS using Raspberry Pi or setting up VMs! 💻*  
   
 
-- 🌱 I’m currently learning Kali Linux tools and Threat Intel  
+- 🌱 I’m currently learning Kali Linux and Threat Intelligence tools!
   
 
 - ❓ Feel free to connect with me!  
