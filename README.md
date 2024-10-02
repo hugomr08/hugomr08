@@ -1,5 +1,4 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Hugo, a full-time student-athlete cybersecurity enthusiast 👨‍💻</div>  
